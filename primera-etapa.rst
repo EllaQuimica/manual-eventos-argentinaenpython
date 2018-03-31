@@ -30,7 +30,7 @@ Equipo de Organizadores principales
 ➼ Card de trello asignada para este item: https://trello.com/c/9yY4SH7y
 
 Responsabilidades:
-------------------
+
 Llevar el evento en la fecha establecida, contra todo posible inconveniente o altercado. 
 Una vez comprometido, no puede retirar su compromiso con la organización del evento.
 * Leer el manual de organizador
